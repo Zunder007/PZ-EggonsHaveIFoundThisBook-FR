@@ -1,0 +1,7 @@
+Explications & Emplacements
+
+Ces deux fichiers contiennent la traduction Française du mod
+
+Cependant, comme on ne peut pas traduire ce mod de la façon classique, il faut mettre ces deux fichiers en remplacement des fichiers d'origine à cet emplacement :
+
+\SteamLibrary\steamapps\workshop\content\108600\2631149521\mods\EggonsHaveIFoundThisBook\media\lua\client
